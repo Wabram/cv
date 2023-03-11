@@ -1,4 +1,4 @@
-# see CV_EN.pdf
+# see CV_EN.pdf or clik in link below
 ## [Oncological Molecular Biologist & Computational Scientist](https://github.com/Wabram/cv/blob/master/CV_EN.pdf)
 using proteasomes inhibitor, nutritranscriptomics
 #### Owner of small Polish Carpentry (solid wood with natural finish) [WARZEM(instagram)](https://www.instagram.com/wa.rzem/)
