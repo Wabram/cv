@@ -1,4 +1,5 @@
-# cv -- Oncological Molecular Biologist & Computational Scientist
+# cv 
+### Oncological Molecular Biologist & Computational Scientist
 using proteasomes inhibitor, nutritranscriptomics
 
 - Project manager and executive (wet lab, in silico analyses); 
