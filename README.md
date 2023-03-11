@@ -1,9 +1,9 @@
 # cv -- Oncological Molecular Biologist & Computational Scientist
 using proteasomes inhibitor, nutritranscriptomics
 
-Project manager and executive (wet lab, in silico analyses);
-Budget management;
-Performed wet laboratory (experiments with Agilent’s gene expression
+- Project manager and executive (wet lab, in silico analyses);
+- Budget management;
+- Performed wet laboratory (experiments with Agilent’s gene expression
 and miRNA microarrays as Watson-Crick base paring of indirect
 transcriptome form cDNA (mRNA, lncRNA, lincRNA, sno/snRNA, ncRNA,
 miscRNA, miRNA, pos/neg/spike-in QC)(none of Hoogsteen base paring
