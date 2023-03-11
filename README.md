@@ -1,7 +1,7 @@
 # cv 
 ## Oncological Molecular Biologist & Computational Scientist
 using proteasomes inhibitor, nutritranscriptomics
-#### Owner of small Polish Carpentry (solid wood with natural finish) [WARZEM](https://www.instagram.com/wa.rzem/)
+#### Owner of small Polish Carpentry (solid wood with natural finish) [WARZEM(inst)](https://www.instagram.com/wa.rzem/)
 
 - Project manager and executive (wet lab, in silico analyses); 
 - Budget management;
