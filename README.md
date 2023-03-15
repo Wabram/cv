@@ -8,4 +8,4 @@ using proteasomes inhibitor, nutritranscriptomics
 - and **in silico** using open-source programming/biostatistical **R/RStudio** with packages from cran, bioconductor, github repos (pre-processing, numerical validation awarness, glmm, Bayesian, multivariate, pathway enrichment analysis). On time delivering wet lab experiments, performing and precaution of misleading computational analysis.
 
 
-#### Owner of small Polish Carpentry (solid wood with natural finish) [WARZEM(instagram)](https://www.instagram.com/wa.rzem/)
+## Owner of small Polish Carpentry (solid wood with natural finish) [WARZEM(instagram)](https://www.instagram.com/wa.rzem/)
