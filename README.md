@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-## [Molecular Oncologist & Computational Scientist (cv)](https://Wabram.github.io)
+## [Molecular Oncologist & Computational Scientist (cv)](https://Wabram.github.io/cv)
 using proteasomes inhibitor, nutritranscriptomics
 
 - Budget management;
@@ -29,5 +29,5 @@ I am currently `looking for a job`. If you are hiring **a Computational Oncologi
 
 ---
 
-## Owner of small Polish `tailor-made` [Carpentry](https://warzemstonewood.github.io/pl) 🔭 (solid wood with natural oils finish) [![instagram](https://img.shields.io/badge/WARZEM-0d1117?style=for-the-badge&logo=instagram&logoColor=instagram)](https://www.instagram.com/wa.rzem/) 
+## Owner of small Polish `tailor-made` [Carpentry](https://warzemstonewood.github.io/) 🔭 (solid wood with natural oils finish) [![instagram](https://img.shields.io/badge/WARZEM-0d1117?style=for-the-badge&logo=instagram&logoColor=instagram)](https://www.instagram.com/wa.rzem/) 
 
