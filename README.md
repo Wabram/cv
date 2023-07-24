@@ -25,7 +25,7 @@ using proteasomes inhibitor, nutritranscriptomics
 
 ---
 
-I am currently `looking for a job`. If you are hiring **a Computational Oncologist** or **a Molecular Biologist**  or **an UI/ Graphic Designer**, let me know!
+I am currently `looking for a job`. If you are hiring **a Computational Oncologist/ Immunologist** or **a Molecular Biologist** or **a Laboratory Diagnostician**  or **an UI/ Graphic Designer** or **an Brand Designer**, let me know!
 
 ---
 
